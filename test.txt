@@ -1,1 +1,2 @@
 testing git for 1st time
+added new line for conflict 
